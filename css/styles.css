@@ -148,6 +148,7 @@ nav .logo-container:hover a {
     nav.menu-active .nav-left,
     nav.menu-active .nav-right {
         display: block;
+        margin: 0;
     }
 
     nav.menu-active .nav-left {
